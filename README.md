@@ -18,7 +18,7 @@ This repository contains replication information for 'Assessing the Alignment of
 ## Installation & Setup
 
 1. Create AWS account and request access to the NOVA series of foundational models
-2. Open SageMakerAI, create new notebook instance, follow usage workflow
+2. Open SageMakerAI, create new notebook instance, upload project files, follow usage workflow
 
 ## Requirements
 
@@ -27,7 +27,7 @@ See `requirements.txt` for a complete list of dependencies.
 ## Usage Workflow 
 
 1. Install packages through requirements.txt
-2. Run script 
-3. Run robustness 
+2. Run fomc analysis notebook
+3. Run fomc robustness notebook
 
 *Last updated: 09-09-25*
