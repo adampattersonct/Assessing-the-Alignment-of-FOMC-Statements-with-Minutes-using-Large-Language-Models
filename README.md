@@ -1,2 +1,33 @@
-# Assessing-the-Alignment-of-FOMC-Statements-with-Minutes-using-Large-Language-Models
-Code from research paper (provided after paper is published)
+# Assessing the Alignment of FOMC Statements with Minutes using Large Language Models
+
+
+## Overview
+
+This repository contains replication information for 'Assessing the Alignment of FOMC Statements with Minutes using Large Language Models'. 
+
+## Project Structure
+
+```
+.
+├── README.md
+├── requirements.txt
+├── run_fomc_analysis.ipynb       # Runs the main analysis with heterogeneity checks 
+└── run_fomc_robustness.py        # Runs the robustness check
+```
+
+## Installation & Setup
+
+1. Create AWS account and request access to the NOVA series of foundational models
+2. Open SageMakerAI, create new notebook instance, follow usage workflow
+
+## Requirements
+
+See `requirements.txt` for a complete list of dependencies. 
+
+## Usage Workflow 
+
+1. Install packages through requirements.txt
+2. Run script 
+3. Run robustness 
+
+*Last updated: [09-09-25]*
