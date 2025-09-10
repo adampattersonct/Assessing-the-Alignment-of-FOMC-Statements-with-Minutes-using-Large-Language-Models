@@ -12,7 +12,7 @@ This repository contains replication information for 'Assessing the Alignment of
 ├── README.md
 ├── requirements.txt
 ├── run_fomc_analysis.ipynb       # Runs the main analysis with heterogeneity checks 
-└── run_fomc_robustness.py        # Runs the robustness check
+└── run_fomc_robustness.ipynb     # Runs the robustness check
 ```
 
 ## Installation & Setup
