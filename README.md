@@ -3,7 +3,7 @@
 
 ## Overview
 
-This repository contains replication information for 'Assessing the Alignment of FOMC Statements with Minutes using Large Language Models'. 
+This repository contains replication information for 'Assessing the Alignment of FOMC Statements with Minutes using Large Language Models'. https://iacis.org/iis/2025/2_iis_2025_96-108.pdf 
 
 ## Project Structure
 
@@ -22,7 +22,7 @@ This repository contains replication information for 'Assessing the Alignment of
 
 ## Requirements
 
-See `requirements.txt` for a complete list of dependencies. 
+See `requirements.txt` for a complete list of dependencies (Python 3.10.18). 
 
 ## Usage Workflow 
 
@@ -30,4 +30,4 @@ See `requirements.txt` for a complete list of dependencies.
 2. Run fomc analysis notebook
 3. Run fomc robustness notebook
 
-*Last updated: 09-09-25*
+*Last updated: 10-23-25 *
